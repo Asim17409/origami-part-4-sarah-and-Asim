@@ -1,0 +1,26 @@
+*{
+    background-color:#93f80f
+
+}
+p{font-size: 73px;
+    
+}
+.A{
+    display:flex;
+    justify-content:space-between;
+}
+
+a:link{color: blue;}
+a:visited{color: rgb(61, 20, 243);}
+
+.b:hover img{
+    opacity: 0.2;
+    transform:scale(1.2)
+}
+
+
+img{
+    border: solid;
+    color:#11f509;
+    border-width: 5px;
+}
